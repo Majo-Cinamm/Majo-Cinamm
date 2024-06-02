@@ -2,11 +2,6 @@
 
 <h4 align="Center"> I'm a Computer Engineering student specializing in web development. I love creating dynamic and responsive web applications using modern technologies. Below you'll find a summary of my skills, projects, and how to get in touch with me.</h4>
 
-
-###
-
-<img align="right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWxqMHVpODFqbjBpaTZ2bnIxZGplNm93aHpid2p6ZDZ5d2l4OGh6ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcB8XospGZO8UQq87/giphy.gif"  />
-
 ###
 
 <div align="center">
